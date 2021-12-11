@@ -11,7 +11,23 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
 -->
 
+### Mission
+Create (for personal development and usage) platform for Home Automation from scratch: Web App (SW) + Embedded devices (HW+FW).
+ 
+---
+ 
+### Repos
 | Repository | Description |
 |------------|-------------|
 |📕 [brandbook](https://github.com/iotbuddy-dev/brandbook)|brandbook - logo, colors, etc.|
 |😎 [dude](https://github.com/iotbuddy-dev/dude)|backend app, written in Golang|
+
+---
+ 
+### Tech stack
+[todo]
+
+---
+
+### Team
+Head buddy, Embedded dev, Fullstack dev, DevOps, Hardware Engineer: [@matikap2](https://github.com/matikap2)
