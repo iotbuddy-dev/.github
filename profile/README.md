@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there buddies! 👋
 
 <!--
 
@@ -10,3 +10,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
 -->
+
+| Repository | Description |
+|------------|-------------|
+|📕 [brandbook](https://github.com/iotbuddy-dev/brandbook)|brandbook - logo, colors, etc.|
+|😎 [dude](https://github.com/iotbuddy-dev/dude)|backend app, written in Golang|
