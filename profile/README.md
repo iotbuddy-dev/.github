@@ -27,7 +27,3 @@ Create (for personal development and usage) platform for Home Automation from sc
 ### Tech stack
 [todo]
 
----
-
-### Team
-Head buddy, Embedded dev, Fullstack dev, DevOps, Hardware Engineer: [@matikap2](https://github.com/matikap2)
